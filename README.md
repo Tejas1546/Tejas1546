@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Tejas%20Shetty&fontColor=B0B0B0&fontSize=e)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Tejas%20Shetty&fontColor=B0B0B0&fontSize=e)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Final-year+Computer+Science+Engineering+Student;Software+Development+Intern;Developer+by+role,+DevOps+by+curiosity." alt="Typing SVG" />
